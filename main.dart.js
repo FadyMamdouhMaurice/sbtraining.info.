@@ -106334,7 +106334,7 @@ k.k3=o
 k.p3=k.p2=k.p1=k.ok=k.k4=""}else if(j==="Ball Recovery - R"){k.fx=$.x2
 k.f=!0
 k.fy=$.b7j
-k.r=!1
+k.r=!0
 j=t.s
 k.go=A.b([],j)
 k.w=!1
@@ -106482,7 +106482,7 @@ n.toString
 s=t.p
 n=A.fd(!0,A.d8(p,r,o,A.aW9(A.UB(A.b([A.aXC(A.L(n,r,r,r,r,r,r,r,r),B.D8,B.GT,B.N9),A.ea(B.lx,new A.acn(a),B.ni),A.ea(B.lv,new A.aco(a),B.jo),A.ea(B.lu,new A.acp(a),B.nk),A.ea(B.lt,new A.acs(a),B.a_E),A.ea(B.lt,new A.act(a),B.Db),A.ea(B.lw,new A.acu(a),B.nj)],s),B.Y,r,!1)),r),B.Y,!0)
 o=A.Em(B.d1,new A.mr(u.e,r,r),r)
-return A.ir(new A.hf(0,0,500),A.d8(r,r,A.aq(r,A.hH(A.aH(A.b([A.aq(r,A.ah(A.b([A.JF(A.L("Logout",r,r,r,r,A.a4(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),new A.acv(a),r),A.L("("+$.Pl.F()+"), "+$.th,r,r,r,r,A.a4(r,r,r,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r)],s),B.d6,B.i,B.f,B.D),B.m,B.aK,r,r,r,30,r,r,r,r,r,r),A.Q(A.di(A.aH(A.b([A.di(A.ah(A.b([A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_Y,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.dT,r,r,r),A.L("profile",r,r,r,r,r,r,r,r),new A.acw(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_A,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.cz,r,r,r),A.L("Explanation Videos",r,r,r,r,r,r,r,r),new A.acx(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_z,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.fa,r,r,r),A.L("Add New Explanation Videos",r,r,r,r,r,r,r,r),new A.acy(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p)],s),B.h,B.i,B.f,r),r,r,B.a6),A.di(A.ah(A.b([A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_C,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.fa,r,r,r),A.L("Add New Quiz",r,r,r,r,r,r,r,r),new A.acz(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a04,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.L5,r,r,r),A.L("Remover Trainee Answer",r,r,r,r,r,r,r,r),new A.acq(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a02,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.Lb,r,r,r),A.L("Change Role",r,r,r,r,r,r,r,r),new A.acr(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p)],s),B.h,B.i,B.f,r),r,r,B.a6)],s),B.h,B.i,B.f),r,r,B.T),1)],s),B.h,B.i,B.f),r,r),B.m,r,r,new A.cf(r,o,r,r,r,r,B.Z),r,r,r,r,r,r,r,r),r,r),n)}}
+return A.ir(new A.hf(0,0,500),A.d8(r,r,A.aq(r,A.hH(A.aH(A.b([A.aq(r,A.ah(A.b([A.JF(A.L("Logout",r,r,r,r,A.a4(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r),new A.acv(a),r),A.L("("+$.Pl.F()+"), "+$.th,r,r,r,r,A.a4(r,r,r,r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r)],s),B.d6,B.i,B.f,B.D),B.m,B.aK,r,r,r,30,r,r,r,r,r,r),A.Q(A.di(A.aH(A.b([A.di(A.ah(A.b([A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_Y,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.dT,r,r,r),A.L("profile",r,r,r,r,r,r,r,r),new A.acw(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_A,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.cz,r,r,r),A.L("Explanation Videos",r,r,r,r,r,r,r,r),new A.acx(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_z,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.fa,r,r,r),A.L("Add New Explanation Videos",r,r,r,r,r,r,r,r),new A.acy(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p)],s),B.h,B.i,B.f,r),r,r,B.a6),A.di(A.ah(A.b([A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a_C,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.fa,r,r,r),A.L("Add New Quiz",r,r,r,r,r,r,r,r),new A.acz(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a04,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.L5,r,r,r),A.L("Remover Trainee Answer",r,r,r,r,r,r,r,r),new A.acq(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p),A.ev(A.ac(new A.aL(B.b2,A.aH(A.b([A.iP(B.j,new A.hT(q,1,r),r,100),B.W,B.a02,B.W,A.Q(B.aB,1),A.ac(A.hx(A.cv(B.Lb,r,r,r),A.L("Change Roles",r,r,r,r,r,r,r,r),new A.acr(a),A.hs(B.j,new A.aV(B.k,1,B.A,-1))),r,r)],s),B.h,B.i,B.f),r),500,400),B.j,50,r,B.p)],s),B.h,B.i,B.f,r),r,r,B.a6)],s),B.h,B.i,B.f),r,r,B.T),1)],s),B.h,B.i,B.f),r,r),B.m,r,r,new A.cf(r,o,r,r,r,r,B.Z),r,r,r,r,r,r,r,r),r,r),n)}}
 A.acn.prototype={
 $0(){A.c5(this.a).p8(null)},
 $S:0}
@@ -109064,7 +109064,7 @@ k.CW=o
 k.dy=k.dx=k.db=k.cy=k.cx=""}else if(j==="Ball Recovery - R"){k.Q=$.x2
 k.fr=!0
 k.as=$.b7j
-k.fx=!1
+k.fx=!0
 j=t.s
 k.at=A.b([],j)
 k.fy=!1
